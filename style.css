@@ -1,0 +1,67 @@
+.part {
+    border: 2px solid rgb(185, 185, 185);
+    margin: 0 auto 20px auto;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+
+.color {
+    display: inline-block;
+    margin: 20px;
+    height: 100px;
+    width: 150px;
+}
+
+.color p {
+    text-align: center;
+    font-family: 'PT Serif', serif;
+}
+
+#color1 {
+    background-color: rgb(70, 77, 119);
+    color: white;
+}
+
+#color2 {
+    background-color: rgb(54, 130, 127);
+}
+
+#color3 {
+    background-color: rgb(249, 219, 109);
+}
+
+#color4 {
+    background-color: rgb(244, 237, 237);
+}
+
+.font {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+#font1 {
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+#font2 {
+    font-family: 'PT Serif', serif;
+}
+
+#font3 {
+    font-family: 'Raleway', sans-serif;
+}
+h3 {
+    text-decoration: underline;
+}
+
+.line2 {
+    font-weight: bold;
+}
+
+.line3 {
+    font-style: italic;
+}
+
+li {
+    list-style: square;
+}
